@@ -7,4 +7,4 @@ Python 2 or 3
 1. Clone the project
 2. Open Terminal and navigate to the project folder
 3. Run `pip install -r requirements.txt`
-4. Run `python3 -m twitter cumrocket 2021-03-01`, you can replace "cumrocket" with any term and "2021-03-01" with any search start date.
+4. Run `python3 -m twitter some_search_term 2021-03-01`, you can replace "some_search_term" with any term and "2021-03-01" with any search start date.
